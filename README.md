@@ -1,19 +1,21 @@
-Personally, I find it is very useful to use EXCEL to replicate the maths behind papers.  Sometimes, complex maths notations can be expressed in simple EXCEL functions.  
+Personally, I find it is very useful to use EXCEL to visualize abstract ideas.  Sometimes, complex maths notations can be expressed in simple EXCEL functions.  
 
 Note: For gradient decent, please ensure to have 'Solver' as add-on and choose "GRG Nonlinear" as solving method.
 
-#### Dropout for CNN
+#### Visualized Dropout (value between 0.1 to 0.9) for CNN
 - Dropout.xlxs
 
-#### Paper: Focal Loss for Dense Object Detection http://arxiv.org/abs/1708.02002
+#### Visualized gamma values in relation to losses
+Reference: Focal Loss for Dense Object Detection http://arxiv.org/abs/1708.02002
 - Focal_loss_chart.xlxs 
 - Focal_Loss.ipynb
 
-#### Paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks http://arxiv.org/abs/1703.10593
+#### Experiment gradient explosion 
 - CycleGAN.xlxs
 
-#### Paper: Wasserstein GAN http://arxiv.org/abs/1701.07875
+#### Visualization for WGAN (comparing L1 & L2 losses)
+Reference: Wasserstein GAN http://arxiv.org/abs/1701.07875
 - WGAN.xlxs 
 
-#### Up-sampling (old vs new methods)
+#### Visualization of up-sampling using different methods and kernel sizes
 - Up_sampling.xlxs
